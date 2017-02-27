@@ -2,14 +2,14 @@
 <head>
     <title>My programing path.</title>
 </head>
-<body>
+</html>
 
-##Hello World! 
+## Hello World! 
 My name is Peter, at GitHub: pogorek
 
 ## Since then: 
 
 
 
-</body>
-</html>
+
+
