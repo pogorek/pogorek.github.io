@@ -2,6 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/pogorek/pogorek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+You can use the [page 2](https://pogorek.github.io/blog)
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
