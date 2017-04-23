@@ -1,0 +1,177 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	margin: 0;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.rectangle
+{
+	width: 960px;
+	margin: 20px;
+	text-align: left;
+}
+
+#logo
+{
+	width: 600px;
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+}
+
+#clock
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+}
+
+.square
+{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+.tile1
+{
+	width: 230px;
+	height: 142px;
+	margin: 10px;
+	background-color: #3095d3;
+	float: left;
+}
+
+.tile1:hover
+{
+	background-color: #2084c2;
+}
+
+.tile2
+{
+	width: 230px;
+	height: 142px;
+	margin: 10px;
+	background-color: #666666;
+	float: left;
+}
+
+.tile2:hover
+{
+	background-color: #555555;
+}
+
+.tile3
+{
+	width: 230px;
+	height: 142px;
+	margin: 10px;
+	background-color: #93c748;
+	float: left;
+}
+
+.tile3:hover
+{
+	background-color: #82b637;
+}
+
+.tile4
+{
+	height: 107px;
+	width: 480px;
+	margin: 10px;
+	background-color: #ee5a32;
+	text-align: center;
+	padding-top: 35px;
+	font-size: 22px;
+	line-height: 150%;
+}
+
+.tile5
+{
+	height: 244px;
+	width: 480px;
+	margin: 10px;
+	background-color: #666666;
+	text-align: left;
+	text-align: justify;
+	padding: 30px;
+}
+
+.yt
+{
+	height: 142px;
+	width: 105px;
+	margin: 10px;
+	background-color: #d94348;
+	float: left;
+}
+
+.yt:hover
+{
+	background-color: #c83237;
+}
+
+.fb
+{
+	height: 142px;
+	width: 105px;
+	margin: 10px;
+	background-color: #4668b3;
+	float: left;
+}
+
+.fb:hover
+{
+	background-color: #3557a2;
+}
+
+.gplus
+{
+	height: 142px;
+	width: 105px;
+	margin: 10px;
+	background-color: #d95333;
+	float: left;
+}
+
+.gplus:hover
+{
+	background-color: #c84222;
+}
+
+.tw
+{
+	height: 142px;
+	width: 105px;
+	margin: 10px;
+	background-color: #3095d3;
+	float: left;
+}
+
+.tw:hover
+{
+	background-color: #2084c2;
+}
+
+#footer
+{
+	text-align: center;
+}
+
+a.link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
